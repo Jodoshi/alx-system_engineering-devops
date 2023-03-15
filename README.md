@@ -1,1 +1,1 @@
-The repository is for shell basics
+This readme is for Shell, init files, variables and expansions activity
